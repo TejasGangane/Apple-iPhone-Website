@@ -6,8 +6,7 @@
 
 ## 📖 Overview
 
-A **README** file introduces and explains a project’s purpose, usage, and contribution guidelines to anyone who visits your repository.
-This project replicates Apple’s official iPhone 15 Pro landing page to practice **React**, **GSAP** scroll-triggered animations, and **Three.js** 3D rendering.
+- This project replicates Apple’s official iPhone 15 Pro landing page to practice **React**, **GSAP** scroll-triggered animations, and **Three.js** 3D rendering.
 ---
 
 ## 🚀 Live Demo
@@ -35,4 +34,6 @@ This project replicates Apple’s official iPhone 15 Pro landing page to practic
 
 ---
 
-## Link YT foe video (https://www.youtube.com/watch?v=kRQbRAJ4-Fs)
+## Link YT 
+[View tutorial ](https://www.youtube.com/watch?v=kRQbRAJ4-Fs)  
+
