@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-[View it live on GitHub Pages](https://tejasgangane.github.io/Apple-iPhone-Website/)  
+[View it live (https://apple-tejasgangane.vercel.app/)  
 
 
 ---
