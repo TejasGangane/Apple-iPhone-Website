@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-[View it live (https://apple-tejasgangane.vercel.app/)  
+[View it live] (https://apple-tejasgangane.vercel.app/)
 
 
 ---
